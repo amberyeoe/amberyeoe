@@ -4,6 +4,8 @@
 - 😄 <b>Pronouns</b>: She/Her
 - 💻 <b>Skills</b>: HTML, CSS, JavaScript, SQL, Linux, Python, Ubuntu
 - 🛠️ <b>Tools</b>: Atom, Visual Studio Code, PowerBI, SQL Workbench, mySQL, Oracle Academy, Microsoft Excel, Figma, Git, GitHub, Discord
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amberyeoe)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+</br>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=amberyeoe&theme=dark)](https://git.io/streak-stats)
+</br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amberyeoe&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
