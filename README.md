@@ -1,6 +1,6 @@
 # Hi there 👋
 
-- 👩🏻‍💻 I’m currently studying in <b>Diploma AI and Analytics in NYP</b>
+- 👩🏻‍💻 I’m currently studying in <b>Diploma in Applied AI and Analytics in NYP</b>
 - 😄 Pronouns: She/Her
 - 📃 Portfolio: https://amberyeo.vercel.app
 
